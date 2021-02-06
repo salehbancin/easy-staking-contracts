@@ -17,7 +17,7 @@ UI: https://easy-staking.xdaichain.com
 
 ## Security Audit
 
-More from me [pinjaman online(https://www.sigarmas.id/pinjaman-online-terbaik-mudah-disetujui-cepat-cair/).
+More from me [pinjaman online](https://www.sigarmas.id/pinjaman-online-terbaik-mudah-disetujui-cepat-cair/).
 
 ## How to run
 ### Setup
