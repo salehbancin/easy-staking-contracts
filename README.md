@@ -17,7 +17,7 @@ UI: https://easy-staking.xdaichain.com
 
 ## Security Audit
 
-EasyStaking was audited by Quantstamp. You can find the audit report [here](https://github.com/xdaichain/easy-staking-contracts/blob/master/audit/Quantstamp/xDai%20EasyStaking%20-%20Final%20Report.pdf).
+More from me [pinjaman online(https://www.sigarmas.id/pinjaman-online-terbaik-mudah-disetujui-cepat-cair/).
 
 ## How to run
 ### Setup
